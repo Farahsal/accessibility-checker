@@ -20,6 +20,7 @@ app.use(cors({
     'http://localhost:8080',
     'http://127.0.0.1:5500',   // VS Code Live Server
     'http://localhost:5500',
+    'https://accessibility-checker-un6q.onrender.com'
     // Add your production domain here, e.g. 'https://yourdomain.com'
   ],
   methods: ['GET', 'POST'],
